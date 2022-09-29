@@ -16,10 +16,10 @@
     },
     "autoload": {
         "psr-4": {
-            "Kreait\\Firebase\\": "vendor/kreait/firebase/src/Firebase"
+            "Kreait\\Firebase\\": "vendor/kreait/firebase-php/src/Firebase"
         },
         "files": [
-            "vendor/kreait/firebase/src/Firebase.php"
+            "vendor/kreait/firebase-php/src/Firebase.php"
         ]
     },
     "config": {
